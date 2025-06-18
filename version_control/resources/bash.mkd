@@ -1,0 +1,43 @@
+# Simple bash to do stuff on files -- Cyril Pernet, 2023
+
+If you open a terminal on Windows, Linux or macOS, you are greeted by a command prompt and you can type commands to interact with the computer. [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) is one of the most widely used shells and is the default on Linux and macOS.
+
+[Bourne Again Shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)) improving on [Bourne Shell](https://en.wikipedia.org/wiki/Bourne_shell) 
+
+## basic shell operations
+
+- `pwd`                current working directory
+- `cd`                 change directory
+- `ls`                 lists content of directory
+  - `ls -a`            (a=all) includes hidden files
+  - `ls -l`            (l=long) reveals permissions
+  - `ls -la`           all+long
+  - add `h` everywhere   = human readable
+- `cat filename`       reads the content of the file
+  - `cat -n`           add line numbers
+- `wc`                 to just get the number of lines, words and characters
+- `head -n x filename` reads the first x lines of the file
+- `sort`               same as `cat` but sorted ; see options to reverse, use specific coloumns, save output, etc
+- `touch`              creates empty files and edit timestamp (as many as needed `touch f1 f2 f3 ..`)
+- `cp source target`   copy source to target
+- `mv source target`   move source to target (also rename)
+  - `mv -f`            to force and overwrite, no questions asked
+- `rm filename`        remove file
+  - `rm -rf folder`    remove folder forcingly with recursion (ie delete all with content)
+
+bonus: `history` reveal all commands used (`history !number`)
+
+## a basic script
+
+By addimg `#!/bin/bash` at the top, this makes a script an executable (e.g. call it in command line as ./myscript.sh) - ensure execution allowed with `chmod +rx myscript.sh`
+
+Variables are declared with Capitals and then refer to them with $. For positional argument just use a counter, for instance `echo "username? $1"; echo "password? $2";`
+
+```bash
+#!/bin/bash
+DISPLAY = "running copy script"
+echo = $DISPLAY
+for include in [some char to match]; do
+    cp -- "$include"* test/
+done
+```

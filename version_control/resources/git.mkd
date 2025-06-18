@@ -1,0 +1,42 @@
+# Simple set of Git instructions - Cyril Pernet, 2023
+
+Git is a time machine :-) using 'Version Control'.  
+Using 'Commits', we create time check points of our code. We can test new features using 'branches' we can 'merge' later (using a 'pull request').
+
+Below is my set of Git commands - there are many more 8_soem I may use occasionally, see http://git-scm.com/book/en/Getting-Started-Git-Basics) but one can goole what is needed. Those are just handy to have at hand.
+
+The only code you need for putting new code as a user is:  
+```
+cd local_git_dir
+git add XXX (which file to add – also use * etc for multiple files)
+git commit –m "blablabla"
+git commit -am "ammending with proper text"
+git remote add origin https://github.com/myaccount/myrepo.git  (this is done only once)
+git push origin main
+```
+
+When getting an update from a remote, it is safer to stash.  
+```
+git stash
+git pull
+git stash pop
+```
+
+To check commits and changes between commits (type ``q`` or ``z`` to exit)
+```
+git status
+git log
+git diff
+```
+
+To create a new version and eventually merge 
+```
+git branch
+git merge
+```
+
+Clean-up files
+```
+git clean -dn % check untracked directory and files to remove
+git clean -fd % force untracked remove directory and files 
+```
