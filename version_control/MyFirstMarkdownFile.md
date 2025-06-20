@@ -1,4 +1,3 @@
-
 ### WORKING BRANCH IS THE BEST BRANCH
  
 ###_This is in the forked repo_
@@ -23,3 +22,5 @@ _Here is some more text_
 
 ### It's me
 * Frederik Løgstrup Magnusson, social determinants and intergenerational transmission of mental illness
+* Cyril, NeuroImaging, stats, Data Science
+* Melanie, NeuroImaging, Machine Learning, Data Science
