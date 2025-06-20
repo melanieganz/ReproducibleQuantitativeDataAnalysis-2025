@@ -8,5 +8,4 @@ This is the github [main page.](https://github.com)
 This links to the [title](#main-title)
 This is an image ![image](https://raw.githubusercontent.com/melanieganz/ReproducibleQuantitativeDataAnalysis-2025/main/markdown/Markdown-mark.png)
 ### It's me
-* Alex
-* PhD Student
+* Alejandro Cortina Uribe, PhD Student
