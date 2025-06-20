@@ -55,6 +55,9 @@ echo "tmpinfo.txt" >> .gitignore
 echo "notes/*" >> .gitignore
 ```
 
+for Mac you can ignore .DS_store but cached stuff is annoying, do  
+git rm --cached .DS_Store
+
 # Step 5
 
 Fork the course repository to your own GitHub account, then using GitHub Desktop, clone your forked repository to your local machine.
