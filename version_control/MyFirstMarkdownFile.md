@@ -1,6 +1,6 @@
-﻿# Reproducible Quantitative Data Science
+# Reproducible Quantitative Data Science
 
-## Markdown exercise  .. cyril's copy -- yet another change
+## Markdown exercise{#my-subtitle}
 
 **Let’s _write_ some markdown text** _together_ here!
 
@@ -13,3 +13,5 @@ This is a logo we fetched from GitHub![Let's display the markdown logo](https://
 
 * Cyril, NeuroImaging, stats, Data Science
 * Melanie, NeuroImaging, Machine Learning, Data Science
+* Cleo Xiao, DIKU, HCI, VR
+
