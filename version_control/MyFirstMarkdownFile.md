@@ -1,5 +1,7 @@
-﻿
-###_This is in the clone repo_
+
+### WORKING BRANCH IS THE BEST BRANCH
+ 
+###_This is in the forked repo_
 
 
 # Reproducible Quantitative Data Science
@@ -16,6 +18,8 @@ _This is a text about how to write markdown_
 ![display the image](https://raw.githubusercontent.com/melanieganz/ReproducibleQuantitativeDataAnalysis-2025/main/markdown/Markdown-mark.png)
 
 > Written with [StackEdit](https://stackedit.io/).
+
+_Here is some more text_
 
 ### It's me
 * Frederik Løgstrup Magnusson, social determinants and intergenerational transmission of mental illness
