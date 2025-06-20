@@ -2,7 +2,7 @@
 
 # Reproducible Quantitative Data Science
 
-## Markdown exercise {#my-subtitle}
+## Markdown exercise{#my-subtitle}
 **Let’s _write_ some markdown text** _together_ here!  
 
 [This is the Gitub main page](https://github.com/)  
