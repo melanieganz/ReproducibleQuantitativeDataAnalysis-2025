@@ -1,15 +1,21 @@
 ﻿
+###_This is in the clone repo_
+
 
 # Reproducible Quantitative Data Science
+_This is a text about how to write markdown_
 
 ## Markdown exercise {#my-subtitle}
-**Let’s _write_ some markdown text** _together_ here!  
+**"Markdown is extremely easy!"**
+**_he said, doubting himself_**
 
-[This is the Gitub main page](https://github.com/)
-[This links to the subtitle](#my-subtitle)
-  
-This is a logo we fetched from GitHub![Let's display the markdown logo](https://raw.githubusercontent.com/CPernet/ReproducibleQuantitativeDataScience/main/markdown/Markdown-mark.jpg)
+[this is a link to the main github page](https://github.com/melanieganz/ReproducibleQuantitativeDataAnalysis-2025)
 
-### It's Me
-* Cyril, NeuroImaging, stats, Data Science
-* Melanie, NeuroImaging, Machine Learning, Data Science
+[this is a link to the subtitle](#my-subtitle)
+
+![display the image](https://raw.githubusercontent.com/melanieganz/ReproducibleQuantitativeDataAnalysis-2025/main/markdown/Markdown-mark.png)
+
+> Written with [StackEdit](https://stackedit.io/).
+
+### It's me
+* Frederik Løgstrup Magnusson, social determinants and intergenerational transmission of mental illness
