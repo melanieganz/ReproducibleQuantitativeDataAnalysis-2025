@@ -13,3 +13,5 @@ This is a logo we fetched from GitHub![Let's display the markdown logo](https://
 ### It's Me
 * Cyril, NeuroImaging, stats, Data Science
 * Melanie, NeuroImaging, Machine Learning, Data Science
+
+  Now I am adding more information to the MarkDown document...
