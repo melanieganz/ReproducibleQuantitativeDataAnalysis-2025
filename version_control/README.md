@@ -55,8 +55,10 @@ echo "tmpinfo.txt" >> .gitignore
 echo "notes/*" >> .gitignore
 ```
 
-for Mac you can ignore .DS_store but cached stuff is annoying, do  
+for Mac you can ignore .DS_Store but cached stuff is annoying, do  
+```
 git rm --cached .DS_Store
+```
 
 # Step 5
 
