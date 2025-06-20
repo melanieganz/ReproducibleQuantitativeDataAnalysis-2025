@@ -25,8 +25,10 @@ cut/paste MyFirstMarkdownFile.md into your new folder
 ```bash
 git status
 git add .
-git commit -m "my fist commit"
+git commit -m "my first commit"
+```
 Change something in your markdown
+```bash
 git log --oneline
 git restore MyFirstMarkdownFile.md
 ```
@@ -52,6 +54,9 @@ touch .gitignore
 echo "tmpinfo.txt" >> .gitignore
 echo "notes/*" >> .gitignore
 ```
+
+for Mac you can ignore .DS_store but cached stuff is annoying, do  
+git rm --cached .DS_Store
 
 # Step 5
 
