@@ -2,7 +2,6 @@
  
 ###_This is in the forked repo_
 
-
 # Reproducible Quantitative Data Science
 _This is a text about how to write markdown_
 
@@ -24,3 +23,4 @@ _Here is some more text_
 * Frederik Løgstrup Magnusson, social determinants and intergenerational transmission of mental illness
 * Cyril, NeuroImaging, stats, Data Science
 * Melanie, NeuroImaging, Machine Learning, Data Science
+* Alejandro Cortina Uribe, PhD Student
