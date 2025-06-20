@@ -25,8 +25,10 @@ cut/paste MyFirstMarkdownFile.md into your new folder
 ```bash
 git status
 git add .
-git commit -m "my fist commit"
+git commit -m "my first commit"
+```
 Change something in your markdown
+```bash
 git log --oneline
 git restore MyFirstMarkdownFile.md
 ```
