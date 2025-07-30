@@ -35,14 +35,14 @@ Submit your coursework via e-mail to Cyril and Melanie.
 
 - Programming
 - Good coding practices
-- An introduction to computational analysis methods: permutation, bootstrap, cross-validation, out-of-sample generalization  
-- Time to update your code - push code here, review each other work, present, discuss with teachers  
+- An introduction to computational analysis methods: permutation, bootstrap, cross-validation, out-of-sample generalization
+- Test-driven AI coding (make sure to have [VSCode with Copilot installed](https://code.visualstudio.com/docs/copilot/setup)) 
 
 ### Day 4 - Better analyses 
 
+- Feedback on coursework and discuss further issues to make your PhD reproducible and next assignment
 - P-hacking
 - Understanding p-values 
-- Feedback on coursework and discuss further issues to make your PhD reproducible  
 - Computational reproducibility
 
 Please prepare before the course:
