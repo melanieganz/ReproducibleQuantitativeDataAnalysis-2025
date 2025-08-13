@@ -47,8 +47,7 @@ Submit your coursework via e-mail to Cyril and Melanie.
 
 Please prepare before the course:
   - [install docker on your own machine](https://docs.docker.com/engine/install/) so you can use a container and then build a container.
-  - We will reproduce a full paper, to safe download time during the practical, please download the two files at https://datapub.fz-juelich.de/studyforrest/remodnav/docker-layers beforehand
-  - [install DataLad on your own machine](https://handbook.datalad.org/r?install) to be able to execute all steps to reproduce the paper, and to be able to make your own reproducible in the same way
+  - We will also use other tools to have have toys exemples - an in particulat datalad. (1) start by [installing UV](https://docs.astral.sh/uv/getting-started/installation/#installation-methods) and then (2) install the gitannex typing in a terminal ``uv tool install git-annex`` and then (3) ``uv tool install datalad --with datalad-next``. Finally make sure to activate a uv-based DataLad installation: on Mac/Linux: ``source $(uv tool dir)/datalad/bin/activate``, on Windows (cmd.exe) ``AppData\Roaming\uv\tools\datalad\Scripts\activate.bat``. Further checking and instructions can also be found [here](https://slides.edu.datalad.org/modules/installation.html#/)
 
 ### Course work 
 
