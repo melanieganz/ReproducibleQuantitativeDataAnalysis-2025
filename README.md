@@ -47,7 +47,7 @@ Submit your coursework via e-mail to Cyril and Melanie.
 
 Please prepare before the course:
   - [install docker on your own machine](https://docs.docker.com/engine/install/) so you can use a container and then build a container.
-  - We will also use other tools to have have toys exemples - an in particulat datalad. (1) start by [installing UV](https://docs.astral.sh/uv/getting-started/installation/#installation-methods) and then (2) install the gitannex typing in a terminal ``uv tool install git-annex`` and then (3) ``uv tool install datalad --with datalad-next``. Finally make sure to activate a uv-based DataLad installation: on Mac/Linux: ``source $(uv tool dir)/datalad/bin/activate``, on Windows (cmd.exe) ``AppData\Roaming\uv\tools\datalad\Scripts\activate.bat``. Further checking and instructions can also be found [here](https://slides.edu.datalad.org/modules/installation.html#/)
+  - We will also use other tools to have have toys examples - in particular datalad. (1) start by [installing UV](https://docs.astral.sh/uv/getting-started/installation/#installation-methods) and then (2) install the gitannex typing in a terminal ``uv tool install git-annex`` and then (3) ``uv tool install datalad --with datalad-next``. Finally make sure to activate a uv-based DataLad installation: on Mac/Linux: ``source $(uv tool dir)/datalad/bin/activate``, on Windows (cmd.exe) ``AppData\Roaming\uv\tools\datalad\Scripts\activate.bat``. Further checking and instructions can also be found [here](https://slides.edu.datalad.org/modules/installation.html#/).
 
 ### Course work 
 
