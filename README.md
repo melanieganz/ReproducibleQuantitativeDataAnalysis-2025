@@ -1,11 +1,8 @@
 # ReproducibleQuantitativeDataScience
 
-A course prepared by Dr Melanie Ganz and Dr Cyril Pernet, with amazing guests: Dr Robert Oostenveld (RO), Dr Michael Hanke (MH) and Dr Nikola Stikov (NS).
-The course structure is over 5 days plus personal work: 2 days, course work, 2 days, course work, and 1 day with presentations.
+A course prepared by Dr Melanie Ganz and Dr Cyril Pernet, with amazing guests: Dr Robert Oostenveld (RO), Dr Michael Hanke (MH), Dr Nikola Stikov (NS) and Prof Russ Poldrack. The course structure is over 5 days plus personal work: 2 days, course work, 2 days, course work, and 1 day with presentations.
 
-**For teachers**: We expect students to join the course several months after starting their PhD allowing them to already have data and some code. This will allow them to apply the concepts developed to their own data and code. It is also expected to have a platform to interact with students via a 'wall' with notes. 
-
-**For students**: During the course, active participation is expected. In session 1, we'll use [padlet](https://padlet.com/dashboard) to interact with each other (anonymous posting allowed) and also do group work. In session 2, we use GitHub (that you learn in session 1) to share code and review each other code. It is recommended to share something you are working on, but if you feel uncomfortable with that, prepare something to be shared/reviewed. In session 3, you must present in front of everybody. While it may feel uncomfortable, it is expected from any PhD student to be able to do so, and not just for this course. In general, there are no rights and wrongs in trying to improve reproducibility, it is only expected that you try given the conceptual and practical tools presented.
+During the course, active participation is expected. In session 1, we'll use [padlet](https://padlet.com/dashboard) to interact with each other (anonymous posting allowed) and also do group work. In session 2, we use GitHub (that you learn in session 1) to share code and review each other code. It is recommended to share something you are working on, but if you feel uncomfortable with that, prepare something to be shared/reviewed. In session 3, you must present in front of everybody. While it may feel uncomfortable, it is expected from any PhD student to be able to do so, and not just for this course. In general, there are no rights and wrongs in trying to improve reproducibility, it is only expected that you try given the conceptual and practical tools presented.
 
 ## Part 1
 
