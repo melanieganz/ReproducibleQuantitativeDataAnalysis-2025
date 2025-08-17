@@ -36,7 +36,7 @@ Submit your coursework via e-mail to Cyril and Melanie.
 - Programming
 - Good coding practices
 - An introduction to computational analysis methods: permutation, bootstrap, cross-validation, out-of-sample generalization
-- Test-driven AI coding (make sure to have [VSCode with Copilot installed](https://code.visualstudio.com/docs/copilot/setup)) 
+- Test-driven AI coding: https://github.com/poldrack/ai_testing#
 
 ### Day 4 - Better analyses 
 
@@ -46,8 +46,12 @@ Submit your coursework via e-mail to Cyril and Melanie.
 - Computational reproducibility
 
 Please prepare before the course:
-  - [install docker on your own machine](https://docs.docker.com/engine/install/) so you can use a container and then build a container.
-  - We will also use other tools to have have toys examples - in particular datalad. (1) start by [installing UV](https://docs.astral.sh/uv/getting-started/installation/#installation-methods) and then (2) install the gitannex typing in a terminal ``uv tool install git-annex`` and then (3) ``uv tool install datalad --with datalad-next``. Finally make sure to activate a uv-based DataLad installation: on Mac/Linux: ``source $(uv tool dir)/datalad/bin/activate``, on Windows (cmd.exe) ``AppData\Roaming\uv\tools\datalad\Scripts\activate.bat``. Further checking and instructions can also be found [here](https://slides.edu.datalad.org/modules/installation.html#/).
+- [Installing UV](https://docs.astral.sh/uv/getting-started/installation/#installation-methods) 
+- Install the gitannex typing in a terminal ``uv tool install git-annex`` and then ``uv tool install datalad --with datalad-next``. Finally make sure to activate a uv-based DataLad installation: on Mac/Linux: ``source $(uv tool dir)/datalad/bin/activate``, on Windows (cmd.exe) ``AppData\Roaming\uv\tools\datalad\Scripts\activate.bat``. Further checking and instructions can also be found [here](https://slides.edu.datalad.org/modules/installation.html#/).
+- You should already have VSCode from the last session; otherwise, [install it](https://code.visualstudio.com/docs/copilot/setup) via Copilot AI.
+- Clone this repository: git clone https://github.com/poldrack/ai_testing.git and run uv sync with repo directory
+- [install docker on your own machine](https://docs.docker.com/engine/install/) so you can use a container and then build a container.
+
 
 ### Course work 
 
