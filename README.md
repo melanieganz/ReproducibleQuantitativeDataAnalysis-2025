@@ -44,7 +44,7 @@ Submit your coursework via e-mail to Cyril and Melanie.
 
 Please prepare before the course:
 - [Installing UV](https://docs.astral.sh/uv/getting-started/installation/#installation-methods) 
-- Install the gitannex typing in a terminal ``uv tool install git-annex`` and then ``uv tool install datalad --with datalad-next``. Finally make sure to activate a uv-based DataLad installation: on Mac/Linux: ``source $(uv tool dir)/datalad/bin/activate``, on Windows (cmd.exe) ``AppData\Roaming\uv\tools\datalad\Scripts\activate.bat``. Further checking and instructions can also be found [here](https://slides.edu.datalad.org/modules/installation.html#/).
+- Install the gitannex typing in a terminal ``uv tool install git-annex`` and then ``uv tool install datalad --with datalad-next`` then ``uv tool upgrade datalad --with datalad-next --with datalad-container``. Finally make sure to activate a uv-based DataLad installation: on Mac/Linux: ``source $(uv tool dir)/datalad/bin/activate``, on Windows (cmd.exe) ``AppData\Roaming\uv\tools\datalad\Scripts\activate.bat``. Further checking and instructions can also be found [here](https://slides.edu.datalad.org/modules/installation.html#/).
 - You should already have VSCode from the last session; otherwise, [install it](https://code.visualstudio.com/docs/copilot/setup) **with Copilot AI**.
 - Clone this repository: git clone https://github.com/poldrack/ai_testing.git and run uv sync with repo directory
 - [install docker on your own machine](https://docs.docker.com/engine/install/) so you can use a container and then build a container.
