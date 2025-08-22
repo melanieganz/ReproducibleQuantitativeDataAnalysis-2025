@@ -1,0 +1,17 @@
+name: p_values_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - jupyter
+  - ipykernel
+  - notebook
+  - pip
+  - pip:
+    - ipywidgets
+prefix: p_values_env
