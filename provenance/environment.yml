@@ -1,0 +1,17 @@
+name: provenance_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - jupyter
+  - ipykernel
+  - notebook
+  - pip
+  - pip:
+    - ipywidgets
+prefix: provenance_env
