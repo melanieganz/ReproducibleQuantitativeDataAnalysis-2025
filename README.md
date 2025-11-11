@@ -60,5 +60,6 @@ Make a 10 minutes presentation summarizing all of your course works and what mea
 ### Day 5 - Data sharing 
 
 - The ‘data’ cycle, sharing from raw data to figures - lecture  
-- Reproducible publishing [see example here](https://preprint.neurolibre.org/10.55458/neurolibre.00014/) 
-- Presentations and discussions/social event (drinks and pizza 4h)
+- Copyright and Open Access in publishing - Lecture by Rasmus Rindom Riise from the Royal Library
+- Reproducible publishing [see example here](https://preprint.neurolibre.org/10.55458/neurolibre.00014/) - Lecture by Nikola Stikov from University of Montreal (remote)
+- Presentations and discussions/social event (incl. drinks and pizza)
